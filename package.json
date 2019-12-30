@@ -1,17 +1,17 @@
 {
-  "name": "homebridge-samplePlatform",
-  "version": "0.0.1",
-  "description": "Sample Platform plugin for homebridge: https://github.com/nfarina/homebridge",
+  "name": "homebridge-kmcsmartplug",
+  "version": "1.1.6",
+  "description": "WORK IN PROGRESS",
   "license": "ISC",
   "keywords": [
-    "homebridge-plugin"
+    "homebridge-kmcsmartplug"
   ],
   "repository": {
     "type": "git",
-    "url": "git://github.com/homebridge-kmcsmartplug/homebridge.git"
+    "url": "git://github.com/JacobWonder/homebridge-kmcsmartplug.git"
   },
   "bugs": {
-    "url": "http://github.com/homebridge-kmcsmartplug/homebridge/issues"
+    "url": "http://github.com/JacobWonder/homebridge-kmcsmartplug/issues"
   },
   "engines": {
     "node": ">=0.12.0",
